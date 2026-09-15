@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 logtail/__init__.py
 logtail/cli.py
