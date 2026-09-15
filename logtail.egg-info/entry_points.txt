@@ -1,0 +1,2 @@
+[console_scripts]
+logtail = logtail.cli:main

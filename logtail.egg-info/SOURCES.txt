@@ -1,0 +1,9 @@
+pyproject.toml
+logtail/__init__.py
+logtail/cli.py
+logtail/core.py
+logtail.egg-info/PKG-INFO
+logtail.egg-info/SOURCES.txt
+logtail.egg-info/dependency_links.txt
+logtail.egg-info/entry_points.txt
+logtail.egg-info/top_level.txt
