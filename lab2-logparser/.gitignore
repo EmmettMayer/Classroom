@@ -1,4 +1,0 @@
-*.log
-corpus/
-.ruff_cache/
-*.egg-info/
